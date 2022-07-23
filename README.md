@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bjf5201
 - 👀 I’m interested in DevOps and Agile/SCRUM methodologies
-- 🌱 I’m currently learning Terraform and Bash scripting
-- 💞️ I’m looking to collaborate on Cloud Infrastructure projects (AWS, Azure, AD, Google Cloud Project)
+- 🌱 I’m currently learning React, Terraform, and Bash scripting.
+- 💞️ I’m looking to collaborate on Cloud Infrastructure projects (AWS, Azure, Google Cloud) or React projects!
 - 📫 How to reach me: contact@bethanyfannin.com, @bethanyfannin (Twitter), or visit bethanyfannin.com
 
 <!---
