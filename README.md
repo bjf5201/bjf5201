@@ -14,7 +14,7 @@ I am a full stack developer who works primarily with JavaScript. I am passionate
 
 ## stats 📊
 
-![bethany's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjf5201&theme=catpuccin-latte)
+![bethany's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjf5201&theme=catppuccin-latte)
 <!--
 **bjf5201/bjf5201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
