@@ -12,6 +12,9 @@
 ## about 🤔
 I am a full stack developer who works primarily with JavaScript. I am passionate about privacy, cybersecurity, and creating tech that is for the good of all. I find particular joy in creating secure tools that improve developer experience, and I am skilled at creating empathetic, detailed documentation. Feel free to reach out to me at contact@bethanyfannin.com if you're interested in collaborating!
 
+## stats 📊
+
+![bethany's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjf5201)
 <!--
 **bjf5201/bjf5201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
