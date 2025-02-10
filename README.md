@@ -1,31 +1,38 @@
+# Hello, I'm bjf5201 👋
+
 ## welcome to my workshop 👋
 
-### current projects 🌱
-- ai-shield > a node.js CLI tool to automate the blocking of AI/bot scrapers from unethically copying your original work
-- mod > an opinionated JavaScript library/node.js CLI tool to automate the creation of new JavaScript projects (frontend web apps, backend frameworks, and CLI tools templates)
-- code50 > course from HarvardX on Computer Science
+Welcome to my prettified GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. Here's a little more about me:
 
-### past projects 🔭
-- youtube replica - a complete replica of the YouTube website using React and styled-components
-- CSS Dictionary - a way to easily look up the format of various CSS selectors
+## 🚀 About Me
+- 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
+- 👯 I’m looking to collaborate on open-source projects and interesting development challenges.
+- 💬 Ask me about web development, Java, JavaScript, Python, cloud technologies, or human-centered development.
+- 📫 How to reach me: [contact@bethanyfannin.com](mailto:contact@bethanyfannin.com)
+- ⚡ Fun facts:
+    - I did 1,000 burpees to celebrate Easter last year (& have the...rather long & boring video to prove it!)
+    - Estoy aprendiendo español usando el método de entrada comprensible a través de [Dreaming Spanish](https://dreamingspanish.com/method).
+    - I love being outdoors, and have hiked all throughout Western NC (but would can't wait to explore the West Coast!)
+    - I care deeply about human rights and do what I can to assist my local community by volunteering with [World Relief Durham](https://worldrelief.org/durham/)
 
-## about 🤔
-I am a full stack developer who works primarily with JavaScript. I am passionate about privacy, cybersecurity, and creating tech that is for the good of all. I find particular joy in creating secure tools that improve developer experience, and I am skilled at creating empathetic, detailed documentation. Feel free to reach out to me at contact@bethanyfannin.com if you're interested in collaborating!
+## 🛠️ Languages and Tools
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks and Libraries:** React, Node.js, Express, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins, AWS, VS Code
 
-## stats 📊
+## "Soft" Skills
+- **Human Languages:** English, Spanish
+- **Communication:** I aim to always lead with empathy when communicating with others - even online 🙃
+- **Leadership:** I am currently a board member of two of the Association of Computer Machinery's Special Interest Groups: Computers and Society (SIGCAS) and Computer-Human Interaction (SIGCHI). 
 
-![bethany's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bjf5201&theme=cobalt&hide_rank=true)
-<!--
-**bjf5201/bjf5201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
+![bjf5201's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjf5201&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/bethany-fannin)
+- [Mastodon](https://indieweb.social/@devethic)
+- [Portfolio](https://bethanyfannin.com)
+- [Blog](https://blog.bethanyfannin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about techy things :).
