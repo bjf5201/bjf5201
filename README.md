@@ -33,6 +33,6 @@ Hi! I'm a passionate software developer with a love for creating innovative solu
 - [LinkedIn](https://www.linkedin.com/in/bethany-fannin)
 - [Mastodon](https://indieweb.social/@devethic)
 - [Portfolio](https://bethanyfannin.com)
-- [Blog](https://blog.bethanyfannin.com)
+- [Blog](https://bethanyfannin.com/blog)
 
 Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about techy things :).
