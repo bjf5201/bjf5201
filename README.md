@@ -12,7 +12,7 @@ Hi! I'm a passionate software developer with a love for creating innovative solu
 - ✨ Fun facts:
     - I did 1,000 burpees to celebrate Easter last year (& have the...rather long & boring video to prove it!)
     - Estoy aprendiendo español usando el método de entrada comprensible a través de [Dreaming Spanish](https://dreamingspanish.com/method).
-    - I love being outdoors, and have hiked all throughout Western NC (but would can't wait to explore the West Coast!)
+    - I love being outdoors, and have hiked all throughout Western NC (but can't wait to explore the West Coast!)
     - I care deeply about human rights and do what I can to assist my local community by volunteering with [World Relief Durham](https://worldrelief.org/durham/)
 
 ## 🛠️ Languages and Tools
