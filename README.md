@@ -6,14 +6,14 @@ Hi! I'm a passionate software developer with a love for creating innovative solu
 
 ## 🎙️ About Me
 - 🧐 I’m currently learning new technologies and improving my skills in full-stack development.
-- 👭🏽 I’m looking to collaborate on open-source projects and interesting development challenges.
-- ❓ Ask me about web development, Java, JavaScript, Python, cloud technologies, or human-centered development.
+- 👭🏽 I’m looking to collaborate on open-source projects focused on privacy, security, or civic development.
+- ❓ Ask me about network protocols, C, Linux administration, pentesting, Infrastructure-as-Code, or human-centered development.
 - 🗣️ How to reach me: [contact@bethanyfannin.com](mailto:contact@bethanyfannin.com)
 - ✨ A few lil tidbits about me:
     - I did 1,000 burpees to celebrate Easter last year (& have the...rather long & boring video to prove it!)
     - Estoy aprendiendo español usando un método comúnmente conocido como "input comprensible". Eso significa que veo muchos vídeos completamente en español (a través de [Dreaming Spanish](https://dreamingspanish.com) y también practico conversaciones con una maestra de español una vez a la semana a través de [iTalki](https://www.italki.com).
     - I love the outdoors, and have hiked and/or backpacked all throughout the Blue Ridge Mountains out here on the east coast (but can't wait to explore the West Coast!).
-    - I care deeply about human rights and do what I can to assist my local community by volunteering as the web administrator for the [Chatham County Democratic Party](https://www.ccdpnc.org) and volunteering at a thrift store for a local domestic violence shelter.
+    - I care deeply about human rights and do what I can to assist my local community by volunteering as the system admin for the [Chatham County Democratic Party](https://www.ccdpnc.org) and volunteering at a thrift store for a local domestic violence shelter.
 
 ## 🛠️ Languages and Tools
 - **Languages:** JavaScript, Python, Go, Java, C
