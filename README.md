@@ -27,12 +27,6 @@ Hi! I'm a passionate software developer with a love for creating innovative solu
 - **Communication:** I aim to always lead with empathy when communicating with others - even online 🙃
 - **Leadership:** I am currently a board member of two of the Association of Computer Machinery's Special Interest Groups: Computers and Society (SIGCAS) and Computer-Human Interaction (SIGCHI).
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bjf5201&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bjf5201&limit=5&theme=tokyonight)
-
 Thanks for visiting! Feel free to [reach out](mailto:contact@bethanyfannin.com) if you want to collaborate or just chat about techy things :). You can also check me out on one of the many platforms linked below!
 
 ## 🔗 Connect with me via:
