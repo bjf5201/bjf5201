@@ -31,7 +31,7 @@ Hi! I'm a passionate software developer with a love for creating innovative solu
 ![](https://github-readme-stats.vercel.app/api?username=bjf5201&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bjf5201&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bjf5201&limit=5&theme=tokyonight)
 
 Thanks for visiting! Feel free to [reach out](mailto:contact@bethanyfannin.com) if you want to collaborate or just chat about techy things :). You can also check me out on one of the many platforms linked below!
 
